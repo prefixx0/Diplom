@@ -114,8 +114,19 @@ body {
     margin: 0 auto;
     padding: 10px 0 20px;
 
+    text-align: justify;
+
     background-color: #bbc3c9;
 }
+
+.main a{
+    color: #000;
+}
+
+.main a:hover{
+    color: blue;
+}
+
 
 .last-news{
     font-family: 'Bebas Neue', cursive;
